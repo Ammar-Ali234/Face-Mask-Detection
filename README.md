@@ -15,7 +15,7 @@ This project aims to detect whether individuals are wearing masks correctly usin
 
 ## Demo $ Installation Video
 
-Watch the demo video on [YouTube](#).
+Watch the demo video on [YouTube](https://youtu.be/sWKIgrBgis0).
 
 ## Installation
 
