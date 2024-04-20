@@ -1,6 +1,6 @@
 # Face Mask Detection using Computer Vision
 
-![Face Mask Detection](demo_image.jpg)
+![Face Mask Detection](runs/pic.jpg)
 
 ## Overview
 
